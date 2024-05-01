@@ -1,0 +1,9 @@
+Student={
+    "Name":"Sameer",
+     "Marks":{
+         "bio":98,
+         "chem":99,
+         "phy":100,
+     }
+     }
+print(Student["Marks"]["bio"])
